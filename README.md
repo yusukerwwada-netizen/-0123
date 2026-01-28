@@ -4,9 +4,8 @@ SupabaseとStreamlitを連携させた、学習履歴が消えない本格的な
 
 ## 🌐 アプリ試用URL
 以下のリンクから、実際にアプリを体験いただけます：
-**[👉 アプリを試用する]https://your-app-name.streamlit.app/](https://7smfw5tbgjvvkxvfdrosnc.streamlit.app/ *(※リンク先をご自身のStreamlit CloudのURLに書き換えてください)*
 
----
+https://7smfw5tbgjvvkxvfdrosnc.streamlit.app/
 
 ## 🌟 アプリの主な機能
 
